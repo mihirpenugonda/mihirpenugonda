@@ -1,6 +1,6 @@
 ### hey there, i’m @mihirpenugonda 👋
 
-i work on all things tech at BharatX (YC 22) and love creating and exploring new projects by making new projects
+i work on all things tech at BharatX (YC 22) and love learning new tech especially when it comes to creating beautiful user experiences. i have worked on both mobile and web projects and am currently learning backend using golang and mobile dev using react native
 
 ## 🛠 technologies and tools
 

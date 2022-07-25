@@ -2,6 +2,8 @@
 - 👀 I’m interested in ... Finance, Trading, Mobile App Development
 - 🌱 I’m currently learning ... Android App Development (Flutter), React.js
 - 💞️ I’m looking to collaborate on ... App Dev Projects
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirpenugonda)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 - 📫 How to reach me ... 
 

@@ -12,6 +12,9 @@ i work on all things tech at BharatX (YC 22) and love learning new tech especial
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirpenugonda&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+Work :)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhirrrr&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 - 📫 How to reach me ...
 

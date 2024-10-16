@@ -12,5 +12,3 @@ rektscream.xyz
 kissorrug.xyz (ios app)
 
 helping out at maximize.money (india's first rewards pg)
-
-constact me at https://twitter.com/mhirrrrr/

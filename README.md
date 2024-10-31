@@ -1,14 +1,34 @@
-### hey there, i’m @mihirpenugonda 👋
+# Hey there! 👋 I'm @mihirpenugonda
+Ex-Founding Engineer at BharatX (YC '22) | Currently Travelling 🌎
 
-i'm a ex founding engineer at bharatx (yc 22) and currently travelling for a bit!
+## 🚀 About Me
+- 🏗️ Prev. Founding Team at bharatX.tech (@mhirrrr)
+- 🌐 Working on Web3 projects:
+- rug.insure
+- rektscream.xyz
+- kissorrug.xyz (iOS app)
+- 💰 Contributing to maximize.money (India's first rewards PG)
 
-exploring web3/shopify/app dev meanwhile
+## 🛠️ What I'm Up To
+- 🔍 Building Social Products in Web3
+- 🛍️ Building Shopify Apps 
+- 📱 iOS/App Development
 
-pow - 
-bharatx.tech (@mhirrrr)
+## 🏗️ Notable Projects
+- 🏢 **BharatX** (YC '22) - Founding Engineer
+- 🔒 **rug.insure** - Web3 Security Platform
+- 📊 **rektscream.xyz** - DeFi Analytics
+- 📱 **kissorrug.xyz** - Gamified Dating on Web3
+- 💳 **maximize.money** - Rewards Payment Gateway
 
-rug.insure
-rektscream.xyz
-kissorrug.xyz (ios app)
+## 🌟 Tech Stack
+Full Stack Engineer with an ability to pick up fast
+- React/Next.js
+- TypeScript/JavaScript 
+- Rust
 
-helping out at maximize.money (india's first rewards pg)
+## 🔗 Let's Connect
+- Twitter: [@mhirrrr](https://twitter.com/mhirrrr)
+- GitHub: [@mihirpenugonda](https://github.com/mihirpenugonda)
+
+*Open to Collaborations!* ✨
